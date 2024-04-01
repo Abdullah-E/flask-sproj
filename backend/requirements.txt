@@ -1,0 +1,6 @@
+pytest
+psycopg2
+python-dotenv
+firebase-admin
+Flask
+gunicorn

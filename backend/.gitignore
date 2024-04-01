@@ -1,0 +1,15 @@
+__pycache__
+.pytest_cache
+venv
+.env
+./cardpay
+/cardpay
+cardpay
+cardpay/
+venv/
+credentials.json
+credentials-dev.json
+credentials-prod.json
+/scripts/migration.py
+.coverage
+.pre-commit-config.yaml
